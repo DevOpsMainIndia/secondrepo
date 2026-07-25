@@ -1,0 +1,4 @@
+TART RequestId: 11a22b33-c44d-55e6-f77g-88h99i00j11k Version: $LATEST
+2026-07-25T17:40:00.123Z	11a22b33-c44d-55e6-f77g-88h99i00j11k	INFO	Processing order #987654 for user_id: 4321
+END RequestId: 11a22b33-c44d-55e6-f77g-88h99i00j11k
+REPORT RequestId: 11a22b33-c44d-55e6-f77g-88h99i00j11k	Duration: 124.50 ms	Billed Duration: 125 ms	Memory Size: 128 MBMax Memory Used: 74 MB	Init Duration: 210.15 ms	
