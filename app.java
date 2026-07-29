@@ -30,6 +30,7 @@ public class Main {
         } else {
             System.out.println("Status: You are a minor.");
         }
+        seeeee
         
         // 7. Close the scanner resource
         scanner.close();
